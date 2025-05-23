@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Random quotes Extension",
+  "version": "3",
+  "description": "A basic extension that generates random quotes.",
+  "icons": {
+    "128": "/vite.svg"
+  },
+  "action": {
+    "default_popup": "./index.html",
+    "default_title": "Random quotes"
+  }
+}
